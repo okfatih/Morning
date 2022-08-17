@@ -20,7 +20,7 @@ public class GitCodes {
         Bir kez add komutunu kullandıktan sonra working stagede yaptığımız güncellemeler sonası
         tekrar git add . gerek yok onun yerine
         git  commit -a -m"" kodunu girebiliriz
-
+        Not: git log --oneline commitlerimin son durumunu gösterir
          */
         System.out.println("fatih");
         System.out.println("Github is so painful");
