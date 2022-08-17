@@ -21,6 +21,7 @@ public class GitCodes {
         tekrar git add . gerek yok onun yerine
         git  commit -a -m"" kodunu girebiliriz
         Not: git log --oneline commitlerimin son durumunu gösterir
+        NOT: yeni not
          */
         System.out.println("fatih");
         System.out.println("Github is so painful");
