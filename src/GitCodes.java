@@ -22,5 +22,7 @@ public class GitCodes {
         git  commit -a -m"" kodunu girebiliriz
 
          */
+        System.out.println("fatih");
+        System.out.println("Github is so painful");
     }
 }
