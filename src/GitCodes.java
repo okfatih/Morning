@@ -25,5 +25,6 @@ public class GitCodes {
          */
         System.out.println("fatih");
         System.out.println("Github is so painful");
+        System.out.println("Fatih branchinde ortak classta değişiklik yaptım");
     }
 }
